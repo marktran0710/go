@@ -1,4 +1,4 @@
-module github.com/marktran77/go
+module github.com/marktran77/go/simple-load-balancer
 
 go 1.22.2
 
